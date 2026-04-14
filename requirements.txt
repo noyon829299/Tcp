@@ -1,7 +1,0 @@
-requests
-psutil
-PyJWT
-pytz
-aiohttp
-urllib3
-protobuf_decoder
