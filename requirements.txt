@@ -1,0 +1,6 @@
+requests
+psutil
+PyJWT
+pytz
+aiohttp
+urllib3
